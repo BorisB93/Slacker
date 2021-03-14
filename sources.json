@@ -1,0 +1,6 @@
+{
+  "python": ["pythonweekly", "realpython", "fullstackpython"],
+  "javascript": ["javascriptdaily"],
+  "c#": ["csharpstack"],
+  "cpp": ["lefticus"]
+}
